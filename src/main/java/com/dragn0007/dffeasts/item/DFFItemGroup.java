@@ -241,6 +241,13 @@ public class DFFItemGroup {
                         output.accept(DFFItems.PASSIONFRUIT_SODA.get());
                         output.accept(DFFItems.DRAGONFRUIT_SODA.get());
 
+                         output.accept(DFFItems.WHITE_BREAD.get());
+                         output.accept(DFFItems.BANANA_BREAD.get());
+                         output.accept(DFFItems.BLUEBERRY_BREAD.get());
+                         output.accept(DFFItems.CRANBERRY_BREAD.get());
+                         output.accept(DFFItems.RYE_BREAD.get());
+                         output.accept(DFFItems.NUT_BREAD.get());
+
                         output.accept(DFFItems.BLACKBERRY_TURNOVER.get());
                         output.accept(DFFItems.BLUEBERRY_TURNOVER.get());
                         output.accept(DFFItems.CRANBERRY_TURNOVER.get());

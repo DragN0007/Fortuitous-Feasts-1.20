@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ice_or_snow": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "forge:smoothie_ice"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "dffeasts:pomegranate_smoothie"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_ice_or_snow",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dffeasts:pomegranate_smoothie"
+    ]
+  },
+  "sends_telemetry_event": false
+}

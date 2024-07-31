@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:peanut"
+    },
+    {
+      "tag": "forge:peanut"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "dffeasts:peanut_butter"
+  }
+}

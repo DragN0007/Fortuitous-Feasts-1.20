@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:tomato"
+    },
+    {
+      "tag": "forge:tomato"
+    },
+    {
+      "tag": "forge:onion"
+    },
+    {
+      "tag": "forge:herbs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "dffeasts:tomato_soup"
+  }
+}

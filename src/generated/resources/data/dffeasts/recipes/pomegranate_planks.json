@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "dffeasts:pomegranate_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "dffeasts:pomegranate_planks"
+  }
+}

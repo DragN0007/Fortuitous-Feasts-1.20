@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:herbs"
+    },
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "tag": "forge:dough"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:veggie_wrap"
+  }
+}

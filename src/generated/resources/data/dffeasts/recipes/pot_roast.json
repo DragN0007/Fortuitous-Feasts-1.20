@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:herbs"
+    },
+    {
+      "tag": "forge:raw_beef"
+    },
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "tag": "forge:garlic"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:pot_roast"
+  }
+}

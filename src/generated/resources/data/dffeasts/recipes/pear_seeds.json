@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:pear"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:pear_seeds"
+  }
+}

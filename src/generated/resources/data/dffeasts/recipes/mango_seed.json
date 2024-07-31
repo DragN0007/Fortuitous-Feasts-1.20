@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:mango"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:mango_seed"
+  }
+}

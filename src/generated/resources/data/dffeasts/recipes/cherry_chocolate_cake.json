@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "dffeasts:chocolate_cake"
+    },
+    {
+      "tag": "forge:cherry"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:cherry_chocolate_cake"
+  }
+}

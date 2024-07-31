@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:milk"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "dffeasts:butter"
+  }
+}

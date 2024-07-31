@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:orange"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:orange_seeds"
+  }
+}

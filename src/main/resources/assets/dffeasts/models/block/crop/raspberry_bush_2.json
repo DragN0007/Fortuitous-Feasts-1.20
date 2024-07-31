@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"cross": "dffeasts:block/raspberry_bush_2"
+	}
+}

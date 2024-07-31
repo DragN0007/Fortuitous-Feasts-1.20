@@ -1,0 +1,7 @@
+{
+	"parent": "dffeasts:block/base/very_leafy_base_3",
+	"textures": {
+		"base": "dffeasts:block/very_leafy_3",
+		"veggie": "dffeasts:block/cucumber"
+	}
+}

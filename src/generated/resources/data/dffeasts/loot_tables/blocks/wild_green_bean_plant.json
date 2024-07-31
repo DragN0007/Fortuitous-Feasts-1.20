@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dffeasts:green_beans"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "dffeasts:blocks/wild_green_bean_plant"
+}

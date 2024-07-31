@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dffeasts:block/mango_slab"
+    },
+    "type=double": {
+      "model": "dffeasts:block/mango_planks"
+    },
+    "type=top": {
+      "model": "dffeasts:block/mango_slab_top"
+    }
+  }
+}

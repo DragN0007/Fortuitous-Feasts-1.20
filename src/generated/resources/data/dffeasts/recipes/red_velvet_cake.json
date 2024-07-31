@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "forge:milk"
+    },
+    "C": {
+      "tag": "forge:sugar"
+    },
+    "D": {
+      "tag": "forge:flour"
+    },
+    "E": {
+      "tag": "forge:egg"
+    },
+    "F": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "CEC",
+    "DFD"
+  ],
+  "result": {
+    "item": "dffeasts:red_velvet_cake"
+  },
+  "show_notification": true
+}

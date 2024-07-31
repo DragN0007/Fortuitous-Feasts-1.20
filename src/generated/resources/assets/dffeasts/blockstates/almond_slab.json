@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dffeasts:block/almond_slab"
+    },
+    "type=double": {
+      "model": "dffeasts:block/almond_planks"
+    },
+    "type=top": {
+      "model": "dffeasts:block/almond_slab_top"
+    }
+  }
+}

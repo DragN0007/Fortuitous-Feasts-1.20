@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "forge:milk"
+    },
+    "B": {
+      "tag": "forge:cocoa"
+    },
+    "C": {
+      "tag": "forge:sugar"
+    },
+    "D": {
+      "tag": "forge:flour"
+    },
+    "E": {
+      "tag": "forge:egg"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "CEC",
+    "DBD"
+  ],
+  "result": {
+    "item": "dffeasts:chocolate_cake"
+  },
+  "show_notification": true
+}

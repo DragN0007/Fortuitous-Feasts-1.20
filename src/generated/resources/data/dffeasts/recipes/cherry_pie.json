@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "tag": "forge:butter"
+    },
+    {
+      "tag": "forge:cherry"
+    },
+    {
+      "tag": "forge:cherry"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:cherry_pie"
+  }
+}

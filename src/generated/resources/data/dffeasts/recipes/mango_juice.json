@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "tag": "forge:mango"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:mango_juice"
+  }
+}

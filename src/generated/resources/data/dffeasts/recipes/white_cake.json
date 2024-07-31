@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "forge:milk"
+    },
+    "B": {
+      "tag": "forge:butter"
+    },
+    "C": {
+      "tag": "forge:sugar"
+    },
+    "D": {
+      "tag": "forge:flour"
+    },
+    "E": {
+      "tag": "forge:egg"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "CEC",
+    "DBD"
+  ],
+  "result": {
+    "item": "dffeasts:white_cake"
+  },
+  "show_notification": true
+}

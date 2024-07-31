@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_pork_sausage": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dffeasts:pork_sausage"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "dffeasts:cooked_pork_sausage_smoking"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_pork_sausage",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dffeasts:cooked_pork_sausage_smoking"
+    ]
+  },
+  "sends_telemetry_event": false
+}

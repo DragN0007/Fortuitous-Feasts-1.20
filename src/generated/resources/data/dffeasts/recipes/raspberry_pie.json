@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "tag": "forge:butter"
+    },
+    {
+      "tag": "forge:raspberry"
+    },
+    {
+      "tag": "forge:raspberry"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:raspberry_pie"
+  }
+}

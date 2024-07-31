@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "item": "dffeasts:cranberry_jam"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "dffeasts:cranberry_turnover"
+  }
+}

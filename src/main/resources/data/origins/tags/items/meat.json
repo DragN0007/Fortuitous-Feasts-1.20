@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "dffeasts:cooked_beef_sausage",
+    "dffeasts:cooked_chicken_sausage",
+    "dffeasts:cooked_mutton_sausage",
+    "dffeasts:cooked_pork_sausage",
+
+    "dffeasts:beef_sausage",
+    "dffeasts:chicken_sausage",
+    "dffeasts:mutton_sausage",
+    "dffeasts:pork_sausage",
+
+    "dffeasts:sausage_mac",
+    "dffeasts:chicken_parm"
+  ]
+}

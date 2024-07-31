@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "item": "dffeasts:raspberry_jam"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "dffeasts:raspberry_turnover"
+  }
+}

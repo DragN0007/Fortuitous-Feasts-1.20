@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "item": "dffeasts:strawberry_jam"
+    },
+    {
+      "item": "dffeasts:chocolate_donut"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:strawberry_chocolate_donut"
+  }
+}

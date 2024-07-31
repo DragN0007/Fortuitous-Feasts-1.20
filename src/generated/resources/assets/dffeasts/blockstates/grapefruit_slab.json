@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dffeasts:block/grapefruit_slab"
+    },
+    "type=double": {
+      "model": "dffeasts:block/grapefruit_planks"
+    },
+    "type=top": {
+      "model": "dffeasts:block/grapefruit_slab_top"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dffeasts:block/olive_slab"
+    },
+    "type=double": {
+      "model": "dffeasts:block/olive_planks"
+    },
+    "type=top": {
+      "model": "dffeasts:block/olive_slab_top"
+    }
+  }
+}

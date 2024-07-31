@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "item": "dffeasts:blackberry_jam"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "dffeasts:blackberry_pastry"
+  }
+}

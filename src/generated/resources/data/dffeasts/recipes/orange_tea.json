@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:leaves"
+    },
+    {
+      "item": "dffeasts:orange_juice"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:orange_tea"
+  }
+}

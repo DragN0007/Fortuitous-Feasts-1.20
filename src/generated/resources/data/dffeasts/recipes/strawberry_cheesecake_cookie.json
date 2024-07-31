@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "dffeasts:sugar_cookie"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "tag": "forge:butter"
+    },
+    {
+      "item": "dffeasts:strawberry_jam"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:strawberry_cheesecake_cookie"
+  }
+}

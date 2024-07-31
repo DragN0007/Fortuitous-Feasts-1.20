@@ -1,0 +1,8 @@
+{
+	"parent": "dffeasts:block/parent/elongated_fruit_leaves_parent",
+	"textures": {
+		"fruit": "dffeasts:block/avocado",
+		"leaves": "dffeasts:block/tropical_base_leaves"
+	},
+	"render_type": "cutout"
+}

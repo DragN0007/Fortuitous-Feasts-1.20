@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "dffeasts:mango_planks"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "BAB",
+    "BAB"
+  ],
+  "result": {
+    "item": "dffeasts:mango_fence_gate"
+  },
+  "show_notification": true
+}

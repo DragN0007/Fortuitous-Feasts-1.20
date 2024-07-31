@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:banana"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:banana_seeds"
+  }
+}

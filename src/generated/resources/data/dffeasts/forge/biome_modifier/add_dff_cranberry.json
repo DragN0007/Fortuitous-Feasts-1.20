@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#forge:is_wet",
+  "features": "dffeasts:dff_cranberry_placed",
+  "step": "vegetal_decoration"
+}

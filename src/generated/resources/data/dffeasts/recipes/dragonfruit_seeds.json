@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:dragonfruit"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:dragonfruit_seeds"
+  }
+}

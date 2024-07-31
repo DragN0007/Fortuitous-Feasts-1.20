@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:herbs"
+    },
+    {
+      "tag": "forge:cooked_meats"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:cheese"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:meat_cheese_wrap"
+  }
+}

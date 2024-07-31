@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:herbs"
+    },
+    {
+      "tag": "forge:water"
+    },
+    {
+      "tag": "forge:garlic"
+    },
+    {
+      "tag": "forge:olive"
+    },
+    {
+      "tag": "forge:olive"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "dffeasts:pickled_olives"
+  }
+}

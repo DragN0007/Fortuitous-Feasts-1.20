@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="dffeasts"
+version="${1.7}"
+displayName="DragN's Fortuitous Feasts"
+logoFile="dff.png"
+authors="DragN0007"
+description='''
+Diverse crops and food!
+'''
+
+[[dependencies.dffeasts]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.dffeasts]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1]"
+ordering = "NONE"
+side = "BOTH"

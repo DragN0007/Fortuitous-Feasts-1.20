@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dffeasts:block/coconut_slab"
+    },
+    "type=double": {
+      "model": "dffeasts:block/coconut_planks"
+    },
+    "type=top": {
+      "model": "dffeasts:block/coconut_slab_top"
+    }
+  }
+}

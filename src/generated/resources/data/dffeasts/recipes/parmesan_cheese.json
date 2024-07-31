@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "dffeasts:cheese_curds"
+    },
+    {
+      "item": "dffeasts:cheese_curds"
+    },
+    {
+      "item": "dffeasts:rosemary"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "dffeasts:parmesan_cheese"
+  }
+}

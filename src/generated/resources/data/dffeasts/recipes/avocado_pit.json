@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:avocado"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:avocado_pit"
+  }
+}

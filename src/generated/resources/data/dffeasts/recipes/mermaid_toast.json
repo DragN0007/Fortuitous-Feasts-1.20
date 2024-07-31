@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:avocado"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "forge:butter"
+    },
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "tag": "forge:blueberry"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "dffeasts:mermaid_toast"
+  }
+}

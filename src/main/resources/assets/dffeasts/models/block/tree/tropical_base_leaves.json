@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dffeasts:block/tropical_base_leaves"
+  },
+  "render_type": "cutout"
+}

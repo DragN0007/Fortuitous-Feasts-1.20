@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "tag": "forge:water"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "dffeasts:dough"
+  }
+}

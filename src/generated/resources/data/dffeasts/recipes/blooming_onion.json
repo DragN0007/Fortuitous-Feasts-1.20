@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:onion"
+    },
+    {
+      "tag": "forge:herbs"
+    },
+    {
+      "tag": "forge:garlic"
+    },
+    {
+      "tag": "forge:dough"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:blooming_onion"
+  }
+}

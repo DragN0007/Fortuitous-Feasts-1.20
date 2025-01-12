@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "dffeasts:white_cake"
+    },
+    {
+      "item": "dffeasts:lychee_jam"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "dffeasts:lychee_cake"
+  }
+}

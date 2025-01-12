@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:block/crop",
 	"textures": {
-		"crop": "dffeasts:blocks/rye_2"
+		"crop": "dffeasts:block/rye_2"
 	}
 }

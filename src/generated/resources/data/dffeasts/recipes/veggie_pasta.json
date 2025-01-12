@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "tag": "forge:herbs"
+    },
+    {
+      "tag": "forge:pasta"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:veggie_pasta"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "dffeasts:white_cake"
+    },
+    {
+      "item": "dffeasts:pear_jam"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "dffeasts:pear_cake"
+  }
+}

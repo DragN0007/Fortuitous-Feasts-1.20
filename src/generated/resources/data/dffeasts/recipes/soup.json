@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "tag": "forge:raw_meats"
+    },
+    {
+      "tag": "forge:herbs"
+    },
+    {
+      "tag": "forge:herbs"
+    },
+    {
+      "tag": "forge:water"
+    }
+  ],
+  "result": {
+    "item": "dffeasts:soup"
+  }
+}
